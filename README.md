@@ -1,7 +1,7 @@
 
 <h1><center>Bangalore House Price Prediction</h1>
 
-![frame_firefox_mac_dark (1)](https://raw.githubusercontent.com/AdityaSuresh013/Bangalore-House-Price-Prediction/main/.github/BLRHouseprice.PNG) 
+![frame_firefox_mac_dark (1)](https://raw.githubusercontent.com/AdityaSuresh013/Bangalore-House-Price-Prediction/main/Images/BLRHouseprice.PNG) 
 
 A Bangalore House Price Prediction website made using Flask for a College Project
 
